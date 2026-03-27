@@ -99,12 +99,13 @@ The project includes an interactive Streamlit web application where users can in
 
 ---
 
+## 🌐 Live Demo
+https://house-price-ml-hqblzqovaano4mbyv794jj.streamlit.app/
+
 ## Future Improvements
 - Use advanced models (Random Forest, XGBoost)  
 - Improve feature engineering  
 - Add more interactive UI features  
-- Deploy using cloud platforms  
-
 ---
 
 ## Author

@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler
 import pandas as pd
 
 # Load data
-df = pd.read_csv('../data/train.csv')
+df = pd.read_csv('data/train.csv')
 
 features = ['GrLivArea', 'BedroomAbvGr', 'FullBath', 'OverallQual']
 target = 'SalePrice'
